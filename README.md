@@ -1,6 +1,6 @@
 # Dijkstra_1302190087
 
-Algoritma Dijkstra digunakan untuk menemukan jalur terpendek antar node dalam graph.
+Algoritma Dijkstra digunakan untuk menemukan jalur terpendek antar node dalam graph
 
 Input :
 
